@@ -65,7 +65,7 @@ body {
 }
 
 #bok {
-  background: url("../../assets/img/lewe.jpg");
+  background: url("zmniejszone/lewe.jpg");
   background-size: cover;
 }
 
@@ -86,7 +86,7 @@ p {
 }
 
 #bok_p {
-  background: URL("../../assets/img/prawe.jpg");
+  background: URL("zmniejszone/prawe.jpg");
   background-size: cover;
 }
 
